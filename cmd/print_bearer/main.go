@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nubank_api_exporter/nubank"
+	"github.com/rhnasc/nubank_api_exporter/nubank"
 )
 
 func main() {
